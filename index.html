@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lista de Tarefas</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <button id="toggle-theme" title="Alternar tema">🌙</button>
+  <div class="container-principal">
+    <h1>Tarefas Do Dia</h1>
+    <div id="date-time"></div>
+
+    <div class="input-group">
+      <input type="text" id="task-input" placeholder="Digite uma Tarefa" />
+      <button id="add-btn" title="Adicionar Tarefa">➕</button>
+    </div>
+
+    <div class="filters">
+      <button id="filter-all" class="filter-btn active">Todas</button>
+      <button id="filter-pending" class="filter-btn">Pendentes</button>
+      <button id="filter-completed" class="filter-btn">Concluídas</button>
+    </div>
+
+    <ul id="task-list"></ul>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
+
