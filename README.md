@@ -14,9 +14,6 @@ Aplicativo de lista de tarefas feito com **HTML**, **CSS** e **JavaScript**. O a
 - 💾 Tarefas são salvas no navegador (localStorage)
 - 📱 Interface responsiva (funciona em celular e desktop)
 
-## 📸 Preview
-
-![Preview da aplicação](./preview.png)
 
 > 💡 *Dica: você pode substituir essa imagem pelo print da sua interface. Nomeie o arquivo como `preview.png` e coloque na raiz do repositório.*
 
