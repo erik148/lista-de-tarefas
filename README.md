@@ -25,7 +25,9 @@ Aplicativo de lista de tarefas feito com **HTML**, **CSS** e **JavaScript**. O a
 2. Abra o arquivo index.html no seu navegador preferido.
 
 3. Comece a organizar suas tarefas! 😊
+
 🧠 Tecnologias usadas
+
 . HTML5
 
 . CSS3 (com responsividade e tema escuro)
